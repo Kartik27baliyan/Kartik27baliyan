@@ -46,7 +46,10 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 
 ### 📊 GitHub Stats
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kartik27baliyan&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik27baliyan&theme=radical)](https://git.io/streak-stats)
+
+
+[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartik27baliyan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📫 Let's Connect
 
