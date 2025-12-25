@@ -44,13 +44,6 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 - ☁️ **[Terraform Infrastructure Provisioning](https://github.com/Kartik27baliyan/terraform-infra-provisioning)** - Automated AWS infrastructure deployment
 - 🐳 **[Docker Multi-Container Applications](https://github.com/Kartik27baliyan/Docker-container)** - Containerized microservices deployment
 
-### 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartik27baliyan&theme=radical)](https://git.io/streak-stats)
-
-
-[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kartik27baliyan&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 📫 Let's Connect
 
 [![https://linkedin.com/in/kartik-baliyan](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
