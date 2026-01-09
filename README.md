@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 # Hi there, I'm Kartik Baliyan 👋
 
-## 🚀 DevOps Engineer | AWS Certified Cloud Practitioner
+##  DevOps Engineer | AWS Certified Cloud Practitioner
 
 Passionate about automating infrastructure, building CI/CD pipelines, and deploying scalable cloud solutions. Currently transitioning from IT Technical Support to DevOps Engineering with hands-on experience in AWS, Terraform, Docker, and Kubernetes.
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Cloud & Infrastructure:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -38,7 +38,7 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🔥 Featured Projects
+###  Featured Projects
 
 - 🌐 **[AWS 3-Tier Application Deployment](https://github.com/Kartik27baliyan/DevOps-Project)** - End-to-end CI/CD pipeline with Terraform IaC
 - ☁️ **[Terraform Infrastructure Provisioning](https://github.com/Kartik27baliyan/terraform-infra-provisioning)** - Automated AWS infrastructure deployment
@@ -49,7 +49,7 @@ Passionate about automating infrastructure, building CI/CD pipelines, and deploy
 [![https://linkedin.com/in/kartik-baliyan](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 [![Thekartikbaliyan12@gmail.com](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
-### 🎯 Currently
+###  Currently
 
 - 🔭 Building production-grade DevOps projects on AWS
 - 🌱 Deepening expertise in Kubernetes and GitOps workflows
