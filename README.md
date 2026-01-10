@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ##  DevOps Engineer | AWS Certified Cloud Practitioner
 
-Passionate about automating infrastructure, building CI/CD pipelines, and deploying scalable cloud solutions. Currently transitioning from IT Technical Support to DevOps Engineering with hands-on experience in AWS, Terraform, Docker, and Kubernetes.
+Passionate about automating infrastructure, building CI/CD pipelines, and deploying scalable cloud solutions.Currently learning DevOps Engineering with hands-on experience in AWS, Terraform, Docker, and Kubernetes.
 
 ###  Tech Stack
 
